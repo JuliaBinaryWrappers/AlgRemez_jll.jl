@@ -1,0 +1,115 @@
+[[AlgRemez]]
+arch = "aarch64"
+git-tree-sha1 = "3235472fe5d339bf4ea795baaf124c80b13b0510"
+libc = "glibc"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "c9cde4489bd27f651688ef69bc430de71218a6506a50b8a6f0972c4083aa011f"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[AlgRemez]]
+arch = "aarch64"
+git-tree-sha1 = "bd699bbe55a647f76d737db38a14f0ded766ee5c"
+libc = "musl"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "2a3b344212eeecce92d95dcc220db6d70c66fd8805e1baa81c68138107908e3d"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.aarch64-linux-musl.tar.gz"
+[[AlgRemez]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6565415452b7fd94259ba88184146ada3c435136"
+libc = "glibc"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "830d5608e463bbd105bcc31787ee98d13ebee575eae5eb781c2fb297b3ec870e"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[AlgRemez]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "280b4cd10cde16f94d59952ea1e4423aa8a202ee"
+libc = "musl"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "b1586789fb58df870d4f997f878f1069ea1bbe59d136e1a6c38774d584fbad1f"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[AlgRemez]]
+arch = "i686"
+git-tree-sha1 = "febc6da066e3b91c1f540a9c85c06e62b4539a57"
+libc = "glibc"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "6435f463c2f0565dde3d2471a32f06298228868510b9b88b397fbddcb2eada2b"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.i686-linux-gnu.tar.gz"
+[[AlgRemez]]
+arch = "i686"
+git-tree-sha1 = "023b99ec280d1c2e21c62969397e42adbdfef8b4"
+libc = "musl"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "d6dde4f096490b00334dc4aea0279d114c64de4fc1e6982001c682e9a5878da2"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.i686-linux-musl.tar.gz"
+[[AlgRemez]]
+arch = "i686"
+git-tree-sha1 = "55cb41ea5d1174e4157d85adc272c9bd7200d96f"
+os = "windows"
+
+    [[AlgRemez.download]]
+    sha256 = "bf0d9e9dd3b5819d8847e73ab4628d239689c59baa3c69e60f130c32eb1dd286"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.i686-w64-mingw32.tar.gz"
+[[AlgRemez]]
+arch = "powerpc64le"
+git-tree-sha1 = "60ae414c8bb07efdea03286ff6525525ed94df79"
+libc = "glibc"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "1a32aa13f5064c0a02309c0c7431b28b6acbf550ae0bcac07d9d16250b584b09"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[AlgRemez]]
+arch = "x86_64"
+git-tree-sha1 = "a5290b6166b4f7d8de420178cd087663cb8238f3"
+os = "macos"
+
+    [[AlgRemez.download]]
+    sha256 = "bdf6e7382ef565d9a3443567308b78acdf29dfdaec05633aa4b3c0003293ae01"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[AlgRemez]]
+arch = "x86_64"
+git-tree-sha1 = "7da61eb06235ecf4c6db1b853ca8a2a059423f81"
+libc = "glibc"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "720c57b1b5ef87430303d4d21154f64821d826da35d23c06a194c0d886ffce34"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[AlgRemez]]
+arch = "x86_64"
+git-tree-sha1 = "e3c24163b7d639d2a958e8a3fed5078c11f6a011"
+libc = "musl"
+os = "linux"
+
+    [[AlgRemez.download]]
+    sha256 = "3702b6ed49bede223ad6c350ea9969c638b403a38bdb4fe40bfb406edab50c2a"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.x86_64-linux-musl.tar.gz"
+[[AlgRemez]]
+arch = "x86_64"
+git-tree-sha1 = "47a456ec8cff604957333e7de5bcc9c90f7bd4a4"
+os = "freebsd"
+
+    [[AlgRemez.download]]
+    sha256 = "ed547b2375a02da1496d1a9f372519185daa5e769b019dd3d4df6216f799068c"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[AlgRemez]]
+arch = "x86_64"
+git-tree-sha1 = "23f27b99ef87ccdfd9c3aedecb3917c253e29a01"
+os = "windows"
+
+    [[AlgRemez.download]]
+    sha256 = "f357c27dcda8ec1c02e084c2ef251baf32310aa186dfbd5ea06755a1e90f7dd0"
+    url = "https://github.com/JuliaBinaryWrappers/AlgRemez_jll.jl/releases/download/AlgRemez-v0.1.0+0/AlgRemez.v0.1.0.x86_64-w64-mingw32.tar.gz"
