@@ -1,6 +1,6 @@
 name = "AlgRemez_jll"
 uuid = "acb6dc63-88f0-54c7-a126-ccdc963b8b3f"
-version = "0.1.0+0"
+version = "0.1.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
